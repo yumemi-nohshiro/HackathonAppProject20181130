@@ -12,5 +12,5 @@
 git clone https://github.com/yumemi-nohshiro/HackathonAppProject20181130.git
 cd HackathonAppProject20181130
 yarn install
-yarn run dev:ios
+yarn dev:ios
 ```
