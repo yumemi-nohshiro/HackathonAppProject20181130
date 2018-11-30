@@ -1,0 +1,3 @@
+rootProject.name = 'HackathonAppProject20181130'
+
+include ':app'
